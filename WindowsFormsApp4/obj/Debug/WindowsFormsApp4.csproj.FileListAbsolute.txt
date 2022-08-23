@@ -1,0 +1,47 @@
+C:\Users\Usuario\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Usuario\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Usuario\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Usuario\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Usuario\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+C:\Users\Usuario\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Usuario\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Usuario\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ImagenForm.resources
+C:\Users\Manne25\Documents\Visual Studio 2017\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Manne25\Documents\Visual Studio 2017\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ImagenForm.resources
+C:\Users\Manne25\Documents\Visual Studio 2017\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+C:\Users\Manne25\Documents\Visual Studio 2017\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Manne25\Documents\Visual Studio 2017\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CambiosForm1.resources
+C:\Users\Manne25\Documents\Visual Studio 2017\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.infGrafo.resources
+C:\Users\Manne25\Documents\Visual Studio 2017\APP\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Procesamiento de Imagenes.exe.config
+C:\Users\Manne25\Documents\Visual Studio 2017\APP\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Procesamiento de Imagenes.exe
+C:\Users\Manne25\Documents\Visual Studio 2017\APP\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Procesamiento de Imagenes.pdb
+C:\Users\Manne25\Documents\Visual Studio 2017\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\ProcesamientodeImagenes.Properties.Resources.resources
+C:\Users\Manne25\Documents\Visual Studio 2017\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Procesamiento de Imagenes.exe
+C:\Users\Manne25\Documents\Visual Studio 2017\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Procesamiento de Imagenes.pdb
+M:\CUCEI\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Procesamiento de Imagenes.exe.config
+M:\CUCEI\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Procesamiento de Imagenes.exe
+M:\CUCEI\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Procesamiento de Imagenes.pdb
+M:\CUCEI\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+M:\CUCEI\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CambiosForm1.resources
+M:\CUCEI\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ImagenForm.resources
+M:\CUCEI\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.infGrafo.resources
+M:\CUCEI\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\ProcesamientodeImagenes.Properties.Resources.resources
+M:\CUCEI\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+M:\CUCEI\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+M:\CUCEI\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Procesamiento de Imagenes.exe
+M:\CUCEI\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Procesamiento de Imagenes.pdb
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Procesamiento de Imagenes.exe.config
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Procesamiento de Imagenes.exe
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Procesamiento de Imagenes.pdb
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.CambiosForm1.resources
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ImagenForm.resources
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.infGrafo.resources
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\ProcesamientodeImagenes.Properties.Resources.resources
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Procesamiento de Imagenes.exe
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Procesamiento de Imagenes.pdb

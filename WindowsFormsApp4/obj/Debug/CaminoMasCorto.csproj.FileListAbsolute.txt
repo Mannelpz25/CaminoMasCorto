@@ -1,0 +1,12 @@
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Procesamiento de Imagenes.exe.config
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Procesamiento de Imagenes.exe
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Procesamiento de Imagenes.pdb
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\CaminoMasCorto.csproj.AssemblyReference.cache
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\CaminoMasCorto.csproj.SuggestedBindingRedirects.cache
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ImagenForm.resources
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.infGrafo.resources
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\ProcesamientodeImagenes.Properties.Resources.resources
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\CaminoMasCorto.csproj.GenerateResource.cache
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\CaminoMasCorto.csproj.CoreCompileInputs.cache
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Procesamiento de Imagenes.exe
+M:\University\UDG\4°\SALG\APP\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Procesamiento de Imagenes.pdb
